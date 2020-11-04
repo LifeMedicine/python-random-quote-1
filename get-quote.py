@@ -3,7 +3,7 @@ from typing import Any, Union
 
 
 def asdf():
-    print("Keep it logically awesome.")
+    ("Keep it logically awesome.")
 
     f = open("quotes.txt")
     quotes = f.readlines()
